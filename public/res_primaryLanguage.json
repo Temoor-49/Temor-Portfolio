@@ -39,8 +39,8 @@
     "startDate": "2024",
     "description": "A React Native mobile app for the Little Lemon restaurant. Displays menu items, supports search, filtering, and SQLite database storage.",
     "images": [
-     "images/logo.png",
-     "images/logo3.jpg"
+     "images/logo.jpg",
+     "images/logo2.png"
     ],
     "url": "https://github.com/Temoor-49/little-lemon-capstone",
     "technologies": [
