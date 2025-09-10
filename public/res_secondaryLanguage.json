@@ -15,7 +15,7 @@
       "title": "Paraiso",
       "startDate": "2023",
       "description": "Conception et mise en œuvre d’une plateforme à trois niveaux avec des fonctionnalités pour les clients, restaurants et administrateurs. Les fonctionnalités incluent les réservations, commandes à emporter, un système de récompenses et le partage entre amis.",
-      "images": ["images/Paraiso.png", "images/paraiso2.jpg"],
+      "images": ["images/Paraiso.png", "images/paraiso2.png"],
       "url": "https://github.com/Temoor-49/Paraiso-Project",
       "technologies": [
         { "class": "devicon-flutter-plain colored", "name": "Flutter" },
@@ -27,7 +27,7 @@
       "title": "Little Lemon",
       "startDate": "2024",
       "description": "Une application mobile React Native pour le restaurant Little Lemon. Affiche les éléments du menu, prend en charge la recherche, le filtrage et le stockage dans une base SQLite.",
-      "images": ["images/logo.png", "images/logo3.jpg"],
+      "images": ["images/logo.jpg", "images/logo2.png"],
       "url": "https://github.com/Temoor-49/little-lemon-capstone",
       "technologies": [
         { "class": "devicon-react-original colored", "name": "React Native" },
