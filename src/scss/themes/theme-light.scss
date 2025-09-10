@@ -1,0 +1,46 @@
+body[data-theme="light"] {
+   @import '../light-slider';
+
+   .slider-tab {
+      background-color: #D7CAAA;
+   }
+
+   #resume,
+   #education {
+      background: #efe1bd;   /* SAME exact color */
+      
+      .section-title {
+         color: black !important;
+      }
+
+      .experience-badge {
+         background: #d6c68e !important;
+         color: #111 !important;
+      }
+
+      .main-badge {
+         background: #AE944F !important;
+         color: white;
+      }
+
+      .vertical-timeline-element-date {
+         color: black;
+      }
+
+      .vertical-timeline-element-icon {
+         background: #ae944f !important;
+         color: white;
+      }
+   }
+}
+body[data-theme="light"] {
+   #education {
+      background: #efe1bd;   // clean beige
+      filter: none;          // remove dark filter
+   }
+
+   #resume {
+      background: #efe1bd;   // match experience
+      filter: none;
+   }
+}

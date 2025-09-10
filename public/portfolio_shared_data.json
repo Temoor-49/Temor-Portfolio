@@ -1,0 +1,104 @@
+{
+    "basic_info": {
+      "name": "Temoor Hussain",
+      "titles": [ "Software Engineer", "Business Engineer", "Social Media Manager", "Project Manager", "Operation Analyst" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/Temoor-49",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "lindekin",
+          "url": "http://linkedin.com/in/temoor-hussain-812429229",
+          "class": "fab fa-linkedin-in"
+        }
+      ],
+      "image": "pic.jpeg"
+    },
+
+"skills": {
+    "icons": [
+      {
+        "name": "HTML/CSS",
+        "class": "devicon-html5-plain colored",
+        "level": "95"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain colored",
+        "level": "90"
+      },
+      {
+        "name": "React",
+        "class": "devicon-react-original colored",
+        "level": "90"
+      },
+      {
+        "name": "React Native",
+        "logo": "https://reactnative.dev/img/header_logo.svg",
+        "level": "85"
+      },
+      {
+        "name": "Redux",
+        "class": "devicon-redux-original colored",
+        "level": "85"
+      },
+      {
+        "name": "Business Eng",
+        "logo": "https://img.icons8.com/fluency/48/business.png",
+        "level": "80"
+      },
+      {
+        "name": "Biz Engineer",
+        "logo":"https://img.icons8.com/fluency/48/instagram-new.png",
+        "level": "80"
+      },
+      {
+        "name": "Project Manager",
+        "logo": "https://img.icons8.com/fluency/48/project-management.png",
+        "level": "80"
+      },
+      {
+        "name": "Ops Analyst",
+        "logo": "https://img.icons8.com/fluency/48/analytics.png",
+        "level": "80"
+      },
+      {
+        "name": "Flutter",
+        "class": "devicon-flutter-plain colored",
+        "level": "80"
+      },
+      {
+        "name": "Firebase",
+        "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg",
+        "level": "80"
+      },
+      {
+        "name": "Git",
+        "class": "devicon-git-plain colored",
+        "level": "85"
+      },
+      {
+        "name": "CI/CD",
+        "logo": "https://cdn-icons-png.flaticon.com/512/906/906334.png",
+        "level": "70"
+      },
+      {
+        "name": "IT Support",
+        "logo": "https://img.icons8.com/fluency/48/technical-support.png",
+        "level": "80"
+      },
+      {
+        "name": "Manual Testing",
+        "logo": "https://img.icons8.com/color/48/test-passed.png",
+        "level": "75"
+      },
+      {
+        "name": "QA Automation",
+        "logo": "https://cdn-icons-png.flaticon.com/512/10037/10037240.png",
+        "level": "70"
+      }
+    ]
+}
+  }

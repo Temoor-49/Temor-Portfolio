@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "description_header": "Salut",
+    "description": "👋 Je suis Ingénieur Front-End passionné par la création d’applications web et mobiles réactives en utilisant des technologies modernes comme React et React Native. J’apporte également une expérience pratique en assurance qualité logicielle (SQA), y compris les tests manuels et automatisés avec des outils comme Selenium, Postman et Jest. De plus, j’ai de l’expérience dans les domaines du business et du digital, avec des rôles tels qu’Ingénieur d’affaires, Responsable des médias sociaux, Chef de projet et Analyste des opérations. Je me concentre sur un code propre et efficace, l’optimisation des processus métiers et la garantie d’expériences utilisateur de haute qualité sur toutes les plateformes. Merci 💜",
+    "section_name": {
+      "about": "À propos de moi",
+      "projects": "Projets",
+      "skills": "Compétences",
+      "experience": "Expérience",
+      "education": "Éducation"
+    }
+  },
+  "projects": [
+    {
+      "title": "Paraiso",
+      "startDate": "2023",
+      "description": "Conception et mise en œuvre d’une plateforme à trois niveaux avec des fonctionnalités pour les clients, restaurants et administrateurs. Les fonctionnalités incluent les réservations, commandes à emporter, un système de récompenses et le partage entre amis.",
+      "images": ["images/Paraiso.png", "images/paraiso2.jpg"],
+      "url": "https://github.com/Temoor-49/Paraiso-Project",
+      "technologies": [
+        { "class": "devicon-flutter-plain colored", "name": "Flutter" },
+        { "class": "devicon-react-original colored", "name": "React" },
+        { "class": "devicon-firebase-plain colored", "name": "Firebase" }
+      ]
+    },
+    {
+      "title": "Little Lemon",
+      "startDate": "2024",
+      "description": "Une application mobile React Native pour le restaurant Little Lemon. Affiche les éléments du menu, prend en charge la recherche, le filtrage et le stockage dans une base SQLite.",
+      "images": ["images/logo.png", "images/logo3.jpg"],
+      "url": "https://github.com/Temoor-49/little-lemon-capstone",
+      "technologies": [
+        { "class": "devicon-react-original colored", "name": "React Native" },
+        { "class": "devicon-sqlite-plain colored", "name": "SQLite" },
+        { "class": "devicon-javascript-plain colored", "name": "Expo CLI" }
+      ]
+    },
+    {
+      "title": "Portfolio",
+      "startDate": "2025",
+      "description": "Mon site portfolio personnel construit avec React.js pour présenter mes compétences, projets et expériences.",
+      "images": ["images/pf2.jpg", "images/pf3.jpg"],
+      "url": "https://github.com/Temoor-49/Temoor-Portfolio",
+      "technologies": [
+        { "class": "devicon-react-original colored", "name": "React" },
+        { "class": "devicon-javascript-plain colored", "name": "JavaScript" },
+        { "class": "devicon-css3-plain colored", "name": "CSS" }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Digital Tactics",
+      "title": "Ingénieur Logiciel",
+      "years": "Août 2024 – Nov 2024",
+      "mainTech": ["React", "React Native"],
+      "technologies": [
+        "Conception réactive",
+        "Optimisation des performances",
+        "JavaScript",
+        "CSS",
+        "Intégration d’API"
+      ]
+    },
+    {
+      "company": "Vigorous Technologies",
+      "title": "Ingénieur Logiciel",
+      "years": "Déc 2024 – Août 2025",
+      "mainTech": ["React", "React Native"],
+      "technologies": [
+        "Applications Web",
+        "Applications Mobiles",
+        "Tests Manuels",
+        "Tests Automatisés",
+        "Cas de test",
+        "Suivi des bugs",
+        "Qualité du code"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Licence en Informatique",
+      "institution": "Université Quaid-i-Azam",
+      "year": "2020-2024"
+    },
+    {
+      "degree": "Intermédiaire en Pré-ingénierie",
+      "institution": "Punjab College",
+      "year": "2019-2019"
+    }
+  ]
+}
